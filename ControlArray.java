@@ -10,7 +10,7 @@ public class ControlArray
 			
 			System.out.println("Inizio controllo array: " + NomeAR);
 			
-			for(int i = 0, i <= NomeAR.lenght, i++)
+			for (int i = 0; i <= NomeAR.lenght; i++)
 			{
 				System.out.println("Slot " + i + " = " + NomeAR[i]);
 				
